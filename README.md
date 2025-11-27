@@ -1,4 +1,4 @@
-# GravityIssue
+# GravityIssue (OUTDATED! GO TO SPACEDOCK)
 KSP ASDS mod
 
 
